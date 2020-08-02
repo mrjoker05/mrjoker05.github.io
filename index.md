@@ -21,6 +21,7 @@ If you like, you can contribute to it too.
   <p><a href="https://github.com/mrjoker05/Learn_Python3">Learn Python3</a></p>
 </details>
 
+<br>
 ## Bl0gs
 <details>
   <summary>Hackthebox</summary>
@@ -40,7 +41,7 @@ If you like, you can contribute to it too.
   <p><a href="https://medium.com/@mrjoker05/hello-world-6439f812355f">Hello World</a></p>
 </details>
 
-
+<br>
 ## S0cial M3dia
 <details>
   <summary>Find me here</summary>
