@@ -1,13 +1,15 @@
 # Shubham Arya
 
 ## ~/Ab0ut
+
 Hello World..!!! This is Shubham Arya, I am a Cyber Security Enhusiast and also love developing software.
 Kinda "Developer by day and Hacker by night" type of guy ;)
 I am a Computer Science Engineering student. I Love playing CTFs and Wargames in my free time.
 You can find link to my writeups below.
 And ofcourse like (almost) everyone has a github page I do too.
-It highlights my work(most of it is just the stuff I make in my free time)
-If you like, you can contribute to it too.<br/>
+It highlights my work(most of it is just the stuff I make in my free time) 
+If you like, you can contribute to it too.
+Psst... Here's my <a href="bucketlist.md">Bucketlist</a>
 
 ## ~/Rep0s
 <details>
@@ -40,6 +42,11 @@ If you like, you can contribute to it too.<br/>
   <p><a href="https://medium.com/@mrjoker05/hello-world-6439f812355f">Hello World</a></p>
 </details><br/>
 
+## ~/Bingo
+<details>
+  <summary>Some Useful Links</summary>
+  
+
 ## ~/S0cialM3dia
 <details>
   <summary>Find me here</summary>
@@ -47,3 +54,5 @@ If you like, you can contribute to it too.<br/>
   <p><a href="https://twitter.com/iam_shubhamarya">Twitter</a></p>
   <p><a href="https://www.reddit.com/user/iamnobody_8">Reddit</a></p>
 </details>
+
+
