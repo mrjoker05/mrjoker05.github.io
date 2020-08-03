@@ -9,7 +9,7 @@ You can find link to my writeups below.
 And ofcourse like (almost) everyone has a github page I do too.
 It highlights my work(most of it is just the stuff I make in my free time) 
 If you like, you can contribute to it too.
-Psst... Here's my <a href="bucketlist.md">Bucketlist</a>
+Psst... Here's my [bucketlist](bucketlist.md)
 
 ## ~/Rep0s
 <details>
