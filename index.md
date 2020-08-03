@@ -25,7 +25,7 @@ Psst... Here's my [bucketlist](bucketlist.md)
 
 ## ~/Bl0gs
 <details>
-  <summary>HacTheBox</summary>
+  <summary>HackTheBox</summary>
   <p><a href="https://medium.com/@mrjoker05/hack-the-box-methodology-bde149ff4251">Hackthebox Methodology</a></p>
   <p><a href="https://medium.com/@mrjoker05/traceback-hackthebox-writeup-1501907a1fc5">TraceBack Hackthebox</a></p>
   <p><a href="https://medium.com/@mrjoker05/traverxec-writeup-hackthebox-75af741fb43a">Traverxec Hackthebox</a></p>
