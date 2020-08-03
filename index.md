@@ -42,11 +42,6 @@ Psst... Here's my [bucketlist](bucketlist.md)
   <p><a href="https://medium.com/@mrjoker05/hello-world-6439f812355f">Hello World</a></p>
 </details><br/>
 
-## ~/Bingo
-<details>
-  <summary>Some Useful Links</summary>
-  
-
 ## ~/S0cialM3dia
 <details>
   <summary>Find me here</summary>
