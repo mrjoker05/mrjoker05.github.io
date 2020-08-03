@@ -1,6 +1,7 @@
 # BucketList
 My "Professional" Bucket list.
 
+```markdown
 <details>
 <summary>Hacking</summary>
 
@@ -39,6 +40,6 @@ My "Professional" Bucket list.
 - [x] The Practicing Mind ~ Thomas Sterner
 
 <summary>Books (Self Help)</summary>
-
+```
 
 
