@@ -18,9 +18,6 @@ If you like, you can contribute to it too.
   <p><a href="https://github.com/mrjoker05/HTB-Recon">HTB-Recon</a></p>
   <p><a href="https://github.com/mrjoker05/Lazy-Share">LazyShare</a></p>
   <p><a href="https://github.com/mrjoker05/New-Feed">New-Feed</a></p>
-  <p><a href="https://github.com/mrjoker05/Algos_and_DataStructures">Algos & Data Structures</a></p>
-  <p><a href="https://github.com/mrjoker05/Competetive-Programming">Coding</a></p>
-  <p><a href="https://github.com/mrjoker05/Learn_Python3">Learn Python3</a></p>
 </details><br/>
 
 ## ~/Bl0gs
