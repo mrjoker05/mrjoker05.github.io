@@ -45,6 +45,7 @@ If you like, you can contribute to it too.
   <p><a href="https://medium.com/@mrjoker05">Medium</a></p>
   <p><a href="https://twitter.com/iam_shubhamarya">Twitter</a></p>
   <p><a href="https://www.reddit.com/user/iamnobody_8">Reddit</a></p>
+  <p><a href="https://www.instagram.com/shubham._.arya">Instagram</a></p>
 </details>
 
 
