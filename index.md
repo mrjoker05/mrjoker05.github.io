@@ -20,6 +20,7 @@ If you like, you can contribute to it too.
 <details>
   <summary>My Projects</summary>
   <p><a href="https://github.com/mrjoker05/LazyScripts">LazyScripts</a></p>
+  <p><a href="https://github.com/mrjoker05/Dump_Programs">Dump_Programs</a></p>
   <p><a href="https://github.com/mrjoker05/HTB-Recon">HTB-Recon</a></p>
   <p><a href="https://github.com/mrjoker05/Lazy-Share">LazyShare</a></p>
   <p><a href="https://github.com/mrjoker05/New-Feed">New-Feed</a></p>
