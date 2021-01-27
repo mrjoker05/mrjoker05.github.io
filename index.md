@@ -1,7 +1,6 @@
 # Shubham Arya
 
 ## ~/About
-
 Hello World..!!! This is Shubham Arya, I am a Cyber Security Enthusiast and also love developing software.
 <br>
 Kinda "Developer by day and Hacker by night" type of guy ;)
@@ -30,14 +29,14 @@ If you like, you can contribute to it too.
 
 ## ~/Blogs
 <details>
-  <summary>HackTheBox</summary>
+  <summary>Hacking</summary>
   <p><a href="https://medium.com/@mrjoker05/hack-the-box-methodology-bde149ff4251">Hackthebox Methodology</a></p>
   <p><a href="https://medium.com/@mrjoker05/traceback-hackthebox-writeup-1501907a1fc5">TraceBack Hackthebox</a></p>
   <p><a href="https://medium.com/@mrjoker05/traverxec-writeup-hackthebox-75af741fb43a">Traverxec Hackthebox</a></p>
   <p><a href="https://medium.com/@mrjoker05/postman-hackthebox-quick-walkthrough-22a82761a69a">Postman Hackthebox</a></p>
 </details>
 <details>
-  <summary>Other</summary>
+  <summary>Misc</summary>
   <p><a href="https://medium.com/@mrjoker05/hello-world-6439f812355f">Hello World</a></p>
   <p><a href="https://mrjoker05.medium.com/how-i-created-a-bot-that-marked-my-attendence-for-the-whole-semester-e178da17df89">Attendence automation bot</a></p>
 </details>
