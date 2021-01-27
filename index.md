@@ -1,6 +1,6 @@
 # Shubham Arya
 
-## ~/Ab0ut
+## ~/About
 
 Hello World..!!! This is Shubham Arya, I am a Cyber Security Enthusiast and also love developing software.
 <br>
@@ -17,7 +17,7 @@ It highlights my work(most of it is just the stuff I make in my free time)
 If you like, you can contribute to it too.
 <br>
 
-## ~/Rep0s
+## ~/Repos
 <details>
   <summary>My Projects</summary>
   <p><a href="https://github.com/mrjoker05/LazyScripts">LazyScripts</a></p>
@@ -29,7 +29,7 @@ If you like, you can contribute to it too.
   <p><a href="https://github.com/mrjoker05/CTF-Challenges">CTF-Challenges</a></p>
 </details><br/>
 
-## ~/Bl0gs
+## ~/Blogs
 <details>
   <summary>HackTheBox</summary>
   <p><a href="https://medium.com/@mrjoker05/hack-the-box-methodology-bde149ff4251">Hackthebox Methodology</a></p>
@@ -49,13 +49,14 @@ If you like, you can contribute to it too.
   <p><a href="https://mrjoker05.medium.com/how-i-created-a-bot-that-marked-my-attendence-for-the-whole-semester-e178da17df89">Attendence automation bot</a></p>
 </details><br/>
 
-## ~/S0cialM3dia
+## ~/Social Media
 <details>
   <summary>Find me here</summary>
   <p><a href="https://medium.com/@mrjoker05">Medium</a></p>
   <p><a href="https://twitter.com/iam_shubhamarya">Twitter</a></p>
   <p><a href="https://www.reddit.com/user/iamnobody_8">Reddit</a></p>
   <p><a href="https://www.instagram.com/shubham._.arya">Instagram</a></p>
+  <p><a href="https://www.linkedin.com/in/iamshubhamarya8/">LinkedIn</a></p>
 </details><br/>
 
 
