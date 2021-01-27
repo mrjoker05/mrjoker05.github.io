@@ -15,6 +15,7 @@ It highlights my work(most of it is just the stuff I make in my free time)
 <br>
 If you like, you can contribute to it too.
 
+<br>
 ## ~/Repos
 <details>
   <summary>My Projects</summary>
@@ -27,6 +28,7 @@ If you like, you can contribute to it too.
   <p><a href="https://github.com/mrjoker05/CTF-Challenges">CTF-Challenges</a></p>
 </details>
 
+<br>
 ## ~/Blogs
 <details>
   <summary>Hacking</summary>
@@ -41,6 +43,7 @@ If you like, you can contribute to it too.
   <p><a href="https://mrjoker05.medium.com/how-i-created-a-bot-that-marked-my-attendence-for-the-whole-semester-e178da17df89">Attendence automation bot</a></p>
 </details>
 
+<br>
 ## ~/Social Media
 <details>
   <summary>Find me here</summary>
