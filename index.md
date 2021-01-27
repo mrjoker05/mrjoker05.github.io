@@ -15,7 +15,6 @@ And ofcourse like (almost) everyone has a github page I do too.
 It highlights my work(most of it is just the stuff I make in my free time) 
 <br>
 If you like, you can contribute to it too.
-<br>
 
 ## ~/Repos
 <details>
@@ -27,7 +26,7 @@ If you like, you can contribute to it too.
   <p><a href="https://github.com/mrjoker05/New-Feed">New-Feed</a></p>
   <p><a href="https://github.com/mrjoker05/ImSleepy">ImSleepy</a></p>
   <p><a href="https://github.com/mrjoker05/CTF-Challenges">CTF-Challenges</a></p>
-</details><br/>
+</details>
 
 ## ~/Blogs
 <details>
@@ -37,17 +36,11 @@ If you like, you can contribute to it too.
   <p><a href="https://medium.com/@mrjoker05/traverxec-writeup-hackthebox-75af741fb43a">Traverxec Hackthebox</a></p>
   <p><a href="https://medium.com/@mrjoker05/postman-hackthebox-quick-walkthrough-22a82761a69a">Postman Hackthebox</a></p>
 </details>
-   
-<details>
-  <summary>TryHackMe</summary>
-  <p><a href="">Coming Soon</a></p>
-</details>
-
 <details>
   <summary>Other</summary>
   <p><a href="https://medium.com/@mrjoker05/hello-world-6439f812355f">Hello World</a></p>
   <p><a href="https://mrjoker05.medium.com/how-i-created-a-bot-that-marked-my-attendence-for-the-whole-semester-e178da17df89">Attendence automation bot</a></p>
-</details><br/>
+</details>
 
 ## ~/Social Media
 <details>
@@ -57,6 +50,4 @@ If you like, you can contribute to it too.
   <p><a href="https://www.reddit.com/user/iamnobody_8">Reddit</a></p>
   <p><a href="https://www.instagram.com/shubham._.arya">Instagram</a></p>
   <p><a href="https://www.linkedin.com/in/iamshubhamarya8/">LinkedIn</a></p>
-</details><br/>
-
-
+</details>
